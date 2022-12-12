@@ -1,4 +1,4 @@
-# nginx-resize
+# Nginx Image Resize Docker
 
 Nginx configuration with the image filter module and caching layer.
 
